@@ -142,7 +142,6 @@ a {
 
 .education-section {
   color: white;
-  background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -151,7 +150,6 @@ a {
   
   .project-section {
   color: white;
-  background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -169,6 +167,12 @@ a {
   #contact{
     background-color:#f1f1f1;
     font-family: 'Roboto', sans-serif;
+	color: white;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #contact .well{
